@@ -24,6 +24,7 @@ public class AppConfig extends JFinalConfig {
 
     }
     public static void main(String[] arg){
+
         JFinal.start("src/main/webapp",80,"/",5);
     }
 }
