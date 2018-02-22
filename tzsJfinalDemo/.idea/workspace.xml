@@ -15,7 +15,7 @@
       <file leaf-file-name="AppConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/config/AppConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
+            <state relative-caret-position="540">
               <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -74,9 +74,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2182" />
-    <option name="y" value="120" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -95,6 +95,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,55 +106,10 @@
               <item name="tzsJfinalDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="tzsJfinalDemo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tzsJfinalDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tzsJfinalDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tzsJfinalDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tzsJfinalDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tzsJfinalDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tzsJfinalDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tzsJfinalDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tzsJfinalDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tzsJfinalDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tzsJfinalDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tzsJfinalDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tzsJfinalDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,15 +255,17 @@
       <workItem from="1506477105141" duration="351000" />
       <workItem from="1508295623670" duration="2345000" />
       <workItem from="1508482762295" duration="1199000" />
-      <workItem from="1508828596878" duration="606000" />
+      <workItem from="1508828596878" duration="1170000" />
+      <workItem from="1508847323094" duration="649000" />
+      <workItem from="1508891439046" duration="178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5242000" />
+    <option name="totallyTimeSpent" value="6633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2182" y="120" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -319,7 +280,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -349,6 +310,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/config/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tzsJfinalDemo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/config/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -437,11 +432,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tzsJfinalDemo.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/config/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="540">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -461,13 +458,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/config/AppConfig.java">
+    <entry file="file://$PROJECT_DIR$/tzsJfinalDemo.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
