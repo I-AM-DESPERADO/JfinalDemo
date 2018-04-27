@@ -49,6 +49,10 @@
     <finalName>mavenjfinal</finalName>
   </build>
 
+  <properties>
+  <druid.version>1.0.18</druid.version>
+  </properties>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -59,13 +63,39 @@
     <dependency>
       <groupId>com.jfinal</groupId>
       <artifactId>jfinal</artifactId>
-      <version>2.2</version>
+      <version>3.2</version>
     </dependency>
     <dependency>
       <groupId>com.jfinal</groupId>
       <artifactId>jetty-server</artifactId>
       <version>8.1.8</version>
     </dependency>
+
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>druid</artifactId>
+      <version>${druid.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>5.1.38</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.jfinal</groupId>
+      <artifactId>jfinal-java8</artifactId>
+      <version>3.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.2.4</version>
+    </dependency>
+
+
+
   </dependencies>
 
 
